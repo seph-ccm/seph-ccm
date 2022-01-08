@@ -1,5 +1,5 @@
 - Linux
-- Python
+- Ruby
 
 <!---
 seph-ccm/seph-ccm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
